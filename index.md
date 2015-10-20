@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "Home PAge"
+excerpt: "Me and my coffee!"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: bricks.png
+  feature: background.png
 ---

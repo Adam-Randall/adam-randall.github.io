@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            A Kiwi Look Into I.T. | Adam's Story
+title:            A Kiwi Look Into I.T.
 locale:           en_US
 url:
 
@@ -29,7 +29,7 @@ owner:
   name: Adam Randall
   avatar: bio-photo.jpg
   bio: "A kiwi developer."
-  email: ajp.randall@gmail.com
+  email: info@adam-randall.tech
   disqus-shortname:
   twitter: #username
   facebook: adam.randall.372
