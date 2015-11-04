@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume 
+title: Résumé 
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: background.png
