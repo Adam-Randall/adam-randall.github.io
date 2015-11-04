@@ -33,16 +33,23 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+    <h1><a href="{{ site.url}}/posts/">Recent Posts</a></h1>
+    <hr>
     {% for post in site.posts limit:5 %}
-    <article>
       {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+        <article class="hvr-bob">
+          <a href="{{ post.link }}" target="_blank" title="{{ post.title }}">
+            <h2 class="link-post">{{ post.title }}<i class="fa fa-link"></i></h2>
+          </a>
+        </article>
       {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        <article class="hvr-bob">
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+          </a>
+        </article>
       {% endif %}
-    </article>
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
