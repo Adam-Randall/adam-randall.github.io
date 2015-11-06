@@ -2,15 +2,16 @@
 layout: post
 title: IT Heavy Hitters 2015
 excerpt: "Stepping in the ring for Charity!"
-modified: 2013-05-31
 tags: [ITHeavyHitters, Boxing, knockout, novice-fight]
 comments: true
 share: true
-
+image:
+  credit: Owen Bannister
+  creditlink: http://www.blueweka.co.nz/collection/it-heavy-hitters/
 ---
 
 
-On the 2nd May, I completed one of the most fulfilling journeys of my life thus far. I trained in an intensive 12 week training programme (roughly 20 hours a week) to compete for a position to fight in [IT Heavy Hitters](http://www.itheavyhitters.co.nz/). This was to raise funds for [The Key To Life Charitable Trust](http://keytolife.org.nz/). I was lucky enough to be matched against an opponent, who happened to be a Solution Architect from ANZ in Wellington. When I was told that I was matched 4 weeks out from the fight it became an emotional rollercoaster. My training stepped up another level and my diet became very bland, let alone touching any alcohol. In my head I knew if I didn’t train hard, I would come of second best. It was very hard to prevent myself in finding out more about my opponent before the fight. I was hearing comments through the grape vine that did nothing for my nerves, this included being told he was a professional power lifter as teenager and losing over 40kgs within 3 months before the fight.
+On the 2nd May, I completed one of the most fulfilling journeys of my life thus far. I trained in an intensive 12 week training programme (roughly 20 hours a week) to compete for a position to fight in [IT Heavy Hitters](http://www.itheavyhitters.co.nz/). This was to raise funds for [The Key To Life Charitable Trust](http://keytolife.org.nz/). I was lucky enough to be matched against an opponent, who happened to be a Solution Architect from ANZ in Wellington. When I was told that I was matched 4 weeks out from the fight it became an emotional roller-coaster. My training stepped up another level and my diet became very bland, let alone touching any alcohol. In my head I knew if I didn’t train hard, I would come of second best. It was very hard to prevent myself in finding out more about my opponent before the fight. I was hearing comments through the grape vine that did nothing for my nerves, this included being told he was a professional power lifter as teenager and losing over 40kgs within 3 months before the fight.
 
  ---
 

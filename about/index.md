@@ -1,22 +1,21 @@
 ---
 layout: page
 title: About 
-tags: [about, Jekyll, theme, responsive]
+tags: [about, Jekyll, Adam Randall]
 share: true
 image:
   feature: background.png
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+<p style="text-indent: none">
+Welcome to "A Kiwi Look Into I.T." <br><br>
 
-## Minimal Mistakes is all about:
+For those that don't know me, my name is Adam and I am Software <br>Developer from little old Dunedin, New Zealand.<br><br>
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+When first getting introduced to Software Developing, it was always my plan  to start up a Blog, to share my thoughts on what I have learn't, not only about Software Development, but all things interesting to me.
 
+<br><br>
 <a markdown="0" href="{{ site.url }}/resume" class="btn btn-success">Check Out My Résumé</a>
+
+</p>
+
