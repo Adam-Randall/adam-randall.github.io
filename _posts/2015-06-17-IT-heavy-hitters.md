@@ -72,6 +72,3 @@ alt="Getting Ready For The Fight" width="240" height="180" border="10" />
     display: block;
     margin-right: auto;" src="/images/youtube-play.png" 
 alt="Martin Brennan v Adam Randall - IT Heavy Hitters 2015, May 2nd 2015" width="240" height="180" border="10" /></a>
-
-
-<iframe width="560" height="315" src="http://www.youtube.com/watch?feature=player_embedded&v=HYEEsL4SJqg" frameborder="0"> </iframe>
