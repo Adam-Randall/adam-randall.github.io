@@ -41,12 +41,12 @@
         <h3>{{ year }}</h3>
         {% capture written_year %}{{ year }}{% endcapture %}
       {% endif %}
-      <article>
+      <article class="hvr-bob">
         {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><h2 class="link-post">{{ post.title }} <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2></a>
         {% else %}
-          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><h2>{{ post.title }}</h2>
+          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p></a>
         {% endif %}
       </article>
     {% endfor %}
