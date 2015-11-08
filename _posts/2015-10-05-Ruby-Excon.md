@@ -41,4 +41,4 @@ response =  Excon.new("http://websitetoget.com",
 
 As you can see above, I am setting a header with a content type of JSON and parsing through a JSON string containing a name and description.
 
-Comparing this to Java or other languages, using one line of code makes for fast rapid development and leaves you saving time to worry about more important things.
+To do this in Java or other languages could take several lines of code and requires you to check for exceptions along the way. However this gem leaves you saving time and allows for fast rapid development.
