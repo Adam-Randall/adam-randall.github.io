@@ -2,7 +2,7 @@
 layout: post
 title: Excon - The HTTP Ruby Gem
 excerpt: "Excon is a excellent and easy way to make HTTP calls within Ruby. I found it to be a excellent tool when needing to make calls within a Ruby on Rails application."
-modified: 2013-05-31
+modified: 2015-05-31
 tags: [Excon, Ruby On Rails, Ruby, ROR]
 comments: true
 share: true
