@@ -6,9 +6,7 @@ image:
   feature: background.png
 ---
 
->How do you maintain one of the biggest Government agency applications, integrate new<br>
-legislative changes, with the peace of mind it will be technologically relevant in years <br> to come?<br><br>
-This is just one of the challenges I have been faced with in my role at Datacom
+>Intermediate software developer with three and half years development and support <br> within the Government sector and Telecommunications domain. AWS certified, with development skills in the Java and Ruby on Rails area. <br>Exposure to all facets of development, from research analysis, project design,<br> development, implementation and support. Key interests in a Dev-ops approach to <br> development with automation and deployment to Cloud Services. <br>Strong work ethic in terms of diligence, ownership and reliability. Friendly and approachable with the ability to work as part of a team or unsupervised. Able to acquire new skills quickly, and can adapt to new environments while building and maintaining excellent working relationships.
 
 --- 
 
@@ -17,26 +15,66 @@ This is just one of the challenges I have been faced with in my role at Datacom
 ### <a href="http://datacom.co.nz/"><img style="width: 13%" src="/images/resume/datacom.png"></a> Software Developer 
 <p style="margin-top:-3.5%">(Wellington, New Zealand - Sep. 2012-Present)</p>
 
-Adam has worked on a number of applications at Datacom. To note some:
+**Discretion**: 
+Discretion is an application to showcase security, messaging and collaboration features. It has two-factor authentication using physical U2F Keys and software authenticators. It allows two-way encrypted, end-to-end messaging with native apps, backed by [Open Whispers Systems (Signal)](https://whispersystems.org/).
+It has two-way emailing, group messaging and the ability to secure image / video uploads. It also provides multi tiers of privacy and sensitivity of messages.<br><br>
+Discretion is a Ruby on Rails application that works in conjunction with a Java application. It relies on a number API calls, using callbacks to complete end-to-end transactions between the applications. It is backed by a Postgres database using Redis for background jobs. It required a lot of research and understanding of Open Whisper Systems libraries.
 
-**Checkmate**: This was a Java application that needed to be re-platformed to a Ruby on Rails application. A number of additional features were also required to be integrated. <br> It needed to handle both WebService and REST calls, and the ability to manage both incoming / outgoing SMS messages. <br> This was Test Driven application using an Agile Iterative approach. <br> This allowed the Customer piece of mind as well as seeing results fast.
-
-**Speicific Gems To Note:** Sidekiq, Savon, Foreman, Bootstrap, Devise, Excon, Minitest, Pry
+**Gems Of Note**: u2f, devise, devise_google_authenticator, devise_invitable, paperclip, interactor, foreman, pundit, mailgun-ruby, minitest, pry
 {: .notice}
 
-**Ministry of Justice Case Management System**: On this system, Adam was able to gain the insight of working on a large legacy Java application. He gained the necessities in order to develop, support and meet complex legislative changes in a timely manner. <br> Adam was exposed to all areas of the system from  Development, Support, Test and even Business Analysis.<br>
-This project used a Waterfall approach and given the sensitivity of the application, required a great deal of correspondence with the client.
+**Checkmate**: Checkmate was designed to enable Chorus (telecommunication) technicians to retrieve diagnostic information about a data line, whilst located at a customer location. It allows the technicians the ability to send a SMS code, to a designated number and receive relative information directly to their mobile.<br><br>
+This was a Java application that needed to be re-platformed to Ruby on Rails, with a  number of additional features. It needed to handle both Web-Service and REST calls; with the ability to manage both incoming and outgoing SMS messages. This was developed using a test driven approach in a agile, iterative environment. 
+
+**Gems To Note:** sidekiq, interactor, savon, foreman, bootstrap, excon, kaminari, lograge, devise, devise_ldap_authenticatable, minitest, pry, ruby-oci8, activerecord-oracle_enhanced-adapter
+{: .notice}
+
+**Ministry of Justice Case Management System**: Ministry of Justice Case Management System is a Government application enabled to deliver Court and Tribunal services for Civil, Criminal, Family and Environment Courts. This includes the collection of fines and reparation, Court Rostering and Scheduling, Case Management and maintaining Coroners records.<br><br>
+It is a large complex legacy Java application, which requires regular legislative changes. It is the central block for the courts system, which provides several interfaces connecting the Police, Corrections and Collections to name a few. Development is undertaken with a waterfall approach, with strict time lines to meet legislative changes passed in Parliament.
 
 
-**TextSecure**: Adam worked on implementing and understanding the [TextSecure Java Library](https://whispersystems.github.io/libtextsecure-java/reference/packages.html) in order to create a Java API to interact with a Ruby on Rails API. He created the Java API using Spring Boot with REST calls, which would forward on information to the Ruby on Rails application. This was an interesting project due to the underlying complexity, security and cryptography techniques. 
 
 
 
+---
 
-**Development**:
+### <a href="http://www.turboweb.co.nz/"><img style="width: 15%" src="/images/resume/turboweb.jpg"></a> Web Developer 
+<p style="margin-top:-3.5%">(Dunedin, New Zealand - Nov. 2011-Sep. 2012)</p>
+
+An internship that turned into a part-time job while studying. The job provided creating web based solutions for clients, and improving businesses through online marketing. Websites were effective, efficient and to a high industry standard.<br><br>
+A number of projects were worked on involving front-end development, converting Photoshop mock-ups, back-end development. Technologies using Zend framework, CodeIgniter, Magneto eCommerce and a internal MVC product.
+
+---
+
+### <a href="http://www.otago.ac.nz/"><img style="width: 15%" src="/images/resume/otago-uni.png"></a> Helpdesk Support Technician
+<p style="margin-top:-3.5%">(Dunedin, New Zealand - Mar. 2011-Sep. 2012)</p>
+
+This was another part-time job while studying. It involved providing IT support for University staff members, solving problems daily (including P1 issues) and fixing technological problems when they arose.
+
+---
+
+## Skills Summary
+
+
+**Interpersonal Skills**:
+
++ Friendly and approachable to clients
++ Fast and efficient service
++ Ability to deal with complaints and conflicts appropriately and effectively
++ Ability to work well as part of a team or unsupervised
++ Follow instructions efficiently
++ Relate well to others
++ Reliable, courteous and well-presented professional demeanor
++ Excellent computing and oral communication skills
++ Dedicated work ethic
++ Caring, attentive and always giving 100%
++ Enthusiastic and outgoing
+
+
+**Experience**:
 
 + Development in: Ruby on Rails, Java, JavaScript, JSP, jQuery, Spring Boot, HTML, CSS, VB6.0, Bootstrap, PostgresSQL, SQL, PL/SQL, Redis
-+ Technologies used: Vagrant, AWS, Docker, GitHub / Subversion, CircleCI, Oracle 11g, SoapUI, Sublime, Toad / SQLDevloper / 0xDBE, Intellij / Eclipse, Linux / Microsoft
++ Technologies used: Ansible, Vagrant, AWS, Docker, GitHub / Subversion, CircleCI, Oracle 11g, SoapUI, Sublime, Toad / SQLDevloper / Datagrip (0xDBE), Intellij / Eclipse, Linux / Microsoft
 
 
 **Production Support**:
@@ -56,43 +94,9 @@ This project used a Waterfall approach and given the sensitivity of the applicat
 + Creating Automated Test Scripts using [Watir](http://watir.com/) (Open Source Ruby Tool for Automation).
 + Managing Automation of Test Scripts.
 
----
+**Test Support**:
 
-### <a href="http://www.turboweb.co.nz/"><img style="width: 15%" src="/images/resume/turboweb.jpg"></a> Web Developer 
-<p style="margin-top:-3.5%">(Dunedin, New Zealand - Nov. 2011-Sep. 2012)</p>
-
-+ Provided Web based solutions for clients
-+ Improved clients businesses through online marketing
-+ Built websites that were effective, efficient and to a high industry standard
-+ Technologies used: PHP, CSS, HTML, jQuery, JavaScript, MySQL and Selenium
-
----
-
-### <a href="http://www.otago.ac.nz/"><img style="width: 15%" src="/images/resume/otago-uni.png"></a> Helpdesk Support Technician
-<p style="margin-top:-3.5%">(Dunedin, New Zealand - Mar. 2011-Sep. 2012)</p>
-
-+ Provided IT support for University staff members
-+ Fixed technological problems when they arose
-+ Solved problems on a daily basis
-
----
-
-## Skills Summary
-
-
-**Attributes**:
-
-+ Friendly and approachable to clients
-+ Fast and efficient service
-+ Ability to deal with complaints and conflicts appropriately and effectively
-+ Ability to work well as part of a team or unsupervised
-+ Follow instructions efficiently
-+ Relate well to others
-+ Reliable, courteous and well-presented professional demeanor
-+ Excellent computing and oral communication skills
-+ Dedicated work ethic
-+ Caring, attentive and always giving 100%
-+ Enthusiastic and outgoing
++ Subversion Administrator
 
 ---
 
@@ -106,7 +110,10 @@ This project used a Waterfall approach and given the sensitivity of the applicat
 
 ---
 
-## Professional Developement
+## Professional Development
+
+<img style="width: 15%" src="/images/resume/aws.jpg"> 
+AWS Certified Developer – Associate (2015)
 
 <img style="width: 5%" src="/images/resume/people-cert.png"> 
 ITIL® Foundation Certificate in IT Service Management (2015)
@@ -143,5 +150,5 @@ ITIL® Foundation Certificate in IT Service Management (2015)
 ## References:
 Available on request.
 
-<!--<p><a markdown="0" href="{{ site.url }}/resume/resume.pdf" class="btn btn-success"><i class="fa fa-fw fa-download"></i>Download</a>
-</p>-->
+<p><a markdown="0" href="{{ site.url }}/resume/Adam-Randall-CV.pdf" class="btn btn-success"><i class="fa fa-fw fa-download"></i>Download</a>
+</p>
