@@ -94,7 +94,7 @@ This was another part-time job while studying. It involved providing IT support 
 + Creating Automated Test Scripts using [Watir](http://watir.com/) (Open Source Ruby Tool for Automation).
 + Managing Automation of Test Scripts.
 
-**Test Support**:
+**Other**:
 
 + Subversion Administrator
 
