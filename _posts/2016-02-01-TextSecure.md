@@ -2,14 +2,13 @@
 layout: post
 title: A First Look At TextSecure
 excerpt: TextSecure is a great way to encrypt SMS messages, but understanding the cryptography...
-modified: 2016-01-02
 tags: [TextSecure, libtextsecure, Signal, Open Whisper Systems]
 comments: true
 share: true
 
 ---
 
-Recently I have been experimenting with Signal (TextSecure) by Open Whisper Systems. This is a messaging service which provides end-to-end encryption  without the need in paying SMS and MMS costs. <br><br>
+Recently I have been experimenting with Signal (TextSecure) by Open Whisper Systems. This is a messaging service which provides end-to-end encryption  without the need in paying SMS and MMS costs.
 
 One of the great things about Signal as they have provided many libraries and a API to interact with. However in order to use it, I have found that you require an in-depth knowledge of the [axolotl library](https://github.com/WhisperSystems/libaxolotl-java). This is due to the complexity behind how it does the encryption, which at times was very confusing to understand.
 
